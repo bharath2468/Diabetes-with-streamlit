@@ -5,6 +5,7 @@
 **To run the code**
 
 Step-1 Download the python file.
+
 Step-2 Type "streamlit run {file path}" in the terminal.
 
   The streamlit will open your browser and display the output.
